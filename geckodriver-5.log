@@ -1,0 +1,36 @@
+1772694521546	geckodriver	INFO	Listening on 127.0.0.1:55125
+1772694521610	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "52997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHlXOcj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1772694522066	Marionette	INFO	Marionette enabled
+1772694522231	Marionette	INFO	Listening on port 41295
+WebDriver BiDi listening on ws://127.0.0.1:52997
+Read port: 41295
+1772694522367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval, line 1225: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.google.com/js/th/ISX_o8hhYuqezwXR4-hs_D79k3oI52phsjPOML8khbE.js line 2 > eval line 1225 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.TmuOiBgf3Oc.es5.O/am=AACAAAAAYA/d=1/br=1/rs=AGKMywHiAYP67OUccXO78YsAwSKIdiYWfw/m=kevlar_base_module,kevlar_main_module, line 7487: Script terminated by timeout at:
+B6.prototype.transition@https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.TmuOiBgf3Oc.es5.O/am=AACAAAAAYA/d=1/br=1/rs=AGKMywHiAYP67OUccXO78YsAwSKIdiYWfw/m=kevlar_base_module,kevlar_main_module:7487:33
+DH/<@https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.TmuOiBgf3Oc.es5.O/am=AACAAAAAYA/d=1/br=1/rs=AGKMywHiAYP67OUccXO78YsAwSKIdiYWfw/m=kevlar_base_module,kevlar_main_module:13818:114
+
+1772694530152	Marionette	INFO	Stopped listening on port 41295
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

@@ -1,0 +1,20 @@
+1772693953960	geckodriver	INFO	Listening on 127.0.0.1:37791
+1772693953999	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "43971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH4io3L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1772693954618	Marionette	INFO	Marionette enabled
+1772693954823	Marionette	INFO	Listening on port 37785
+WebDriver BiDi listening on ws://127.0.0.1:43971
+Read port: 37785
+1772693955103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-src:///browser/components/search/SearchOneOffs.sys.mjs, line 392: TypeError: aEngine.getIconURL is not a function
+JavaScript warning: https://www.gstatic.com/og/_/js/k=og.asy.en_US.SKcCWpvuMzA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTtM5QUb9LR4AkXTAZVL6puU_7nYxw, line 106: Script terminated by timeout at:
+_.Xc@https://www.gstatic.com/og/_/js/k=og.asy.en_US.SKcCWpvuMzA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTtM5QUb9LR4AkXTAZVL6puU_7nYxw:106:1200
+_.Yc@https://www.gstatic.com/og/_/js/k=og.asy.en_US.SKcCWpvuMzA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTtM5QUb9LR4AkXTAZVL6puU_7nYxw:62:176
+kh@https://www.gstatic.com/og/_/js/k=og.asy.en_US.SKcCWpvuMzA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTtM5QUb9LR4AkXTAZVL6puU_7nYxw:115:38
+b@https://www.gstatic.com/og/_/js/k=og.asy.en_US.SKcCWpvuMzA.2019.O/rt=j/m=_ac,_awd,ada,lldp,qads,abld/exm=/d=1/ed=1/rs=AA2YrTtM5QUb9LR4AkXTAZVL6puU_7nYxw:112:471
+
+1772694464659	Marionette	INFO	Stopped listening on port 37785
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

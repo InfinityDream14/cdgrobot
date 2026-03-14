@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.10.12 on linux)" generated="2026-03-05T15:35:37.756315" rpa="false" schemaversion="5">
+<suite id="s1" name="Test" source="/home/citco/Desktop/QA /robotframework_gantang/Tests/test.robot">
+<test id="s1-t1" name="TEST-00001" line="7">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-03-05T15:35:37.956435" level="INFO">Opening browser 'chrome' to base url 'https://google.com'.</msg>
+<arg>https://google.com</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-03-05T15:35:37.956043" elapsed="1.468797"/>
+</kw>
+<kw name="Wait Until Page Contains Element" owner="SeleniumLibrary">
+<arg>//textarea[@title="Search"]</arg>
+<doc>Waits until the element ``locator`` appears on the current page.</doc>
+<status status="PASS" start="2026-03-05T15:35:39.425391" elapsed="0.026056"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-03-05T15:35:39.452418" level="INFO">Typing text 'Hello World' into text field '//textarea[@title="Search"]'.</msg>
+<arg>locator=//textarea[@title="Search"]</arg>
+<arg>text=Hello World</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-03-05T15:35:39.451907" elapsed="0.233148"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-03-05T15:36:39.686293" level="INFO">Slept 1 minute.</msg>
+<arg>1m</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-03-05T15:35:39.685478" elapsed="60.001135"/>
+</kw>
+<status status="PASS" start="2026-03-05T15:35:37.954712" elapsed="61.732538"/>
+</test>
+<status status="PASS" start="2026-03-05T15:35:37.758003" elapsed="61.930393"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Test" id="s1" pass="1" fail="0" skip="0">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,13 @@
+1772694156483	geckodriver	INFO	Listening on 127.0.0.1:49489
+1772694156518	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/usr/bin/firefox" "--m ... te" "--remote-debugging-port" "33615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet7LbNJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1772694156973	Marionette	INFO	Marionette enabled
+1772694157148	Marionette	INFO	Listening on port 38063
+WebDriver BiDi listening on ws://127.0.0.1:33615
+Read port: 38063
+1772694157281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1772694461724	Marionette	INFO	Stopped listening on port 38063
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
