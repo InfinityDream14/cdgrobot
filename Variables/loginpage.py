@@ -1,0 +1,7 @@
+login_txt_username = "//input[@name='username']"
+login_txt_password = "//input[@name='password']"
+login_btn_submit = "//button[@type='submit']"
+SEARCH_BAR = "id:APjFqb"
+TEST_URL = "https://marmelab.com/react-admin-demo"
+main_content = "//div[@id='main-content']"
+username_input = "//input[@name='username']"
