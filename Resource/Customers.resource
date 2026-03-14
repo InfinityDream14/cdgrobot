@@ -185,7 +185,6 @@ Display Purchase Summary and Result
     Log To Console    \n[ PURCHASE SUMMARY - TOTALS ]
     Log To Console    ========================================
     
-    # Use the scalar variable $ for the list inside the loop to be safe
     FOR    ${entry}    IN    @{buyer_list}
         Log To Console    ${entry}
     END
