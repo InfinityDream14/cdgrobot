@@ -162,7 +162,7 @@ Log Table Columns
             Log To Console    ${line}
         END
 
-        # News and Segments (Always Show)
+        # News and Segments
         ${line}    Catenate    SEPARATOR=    > News:            ${status}
         Log To Console    ${line}
         
@@ -174,8 +174,6 @@ Log Table Columns
         Log To Console    ----------------------------------------
     END
 
-    # --- CRITICAL: Set Suite Variables BEFORE Return ---
-    # This allows TEST-00004 to access the data even though it's a different test case.
     Set Suite Variable    ${total}     ${running_total}
     Set Suite Variable    ${buyers}    ${buyer_list}
 
